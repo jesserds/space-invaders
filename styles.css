@@ -1,10 +1,11 @@
 .grid {
-	width: 600px;
-	height: 600px;
-	border: solid black 1px;
-	display: flex;
-	flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
     margin: auto;
+    background: url('https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=893&q=80') no-repeat center center/cover;
 }
   
 .grid div {
