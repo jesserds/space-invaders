@@ -1,4 +1,4 @@
-# SPACE INVADERS <a href="https://jesserds.github.io/space-invaders/" target="_blank">(PRESS TO PLAY)</a>
+# SPACE INVADERS <a href="https://jesserds.github.io/space-invaders/" target="_blank">(Press to play)</a>
 
 <a href="https://jesserds.github.io/space-invaders//" target="_blank"><img src="s-i.gif" alt="space-invaders" height=350 class="center"/></a>
 
